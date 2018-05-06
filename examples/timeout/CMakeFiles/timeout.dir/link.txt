@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/timeout.dir/timeout.cpp.o  -o timeout -rdynamic ../../src/libviface.so.1.1.0 -Wl,-rpath,/home/predator/Documents/Project/temp/libviface/src 

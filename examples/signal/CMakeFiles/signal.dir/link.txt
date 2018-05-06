@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/signal.dir/signal.cpp.o  -o signal -rdynamic ../../src/libviface.so.1.1.0 -Wl,-rpath,/home/predator/Documents/Project/temp/libviface/src 

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/predator/Documents/Project/temp/libviface/examples/signal/signal.cpp
+iostream
+-
+csignal
+-
+unistd.h
+-
+viface/viface.hpp
+-
+
+include/viface/config.hpp
+
+include/viface/viface.hpp
+cstdint
+-
+memory
+-
+string
+-
+vector
+-
+set
+-
+viface/config.hpp
+include/viface/viface/config.hpp
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=c++11  -shared -Wl,-soname,libviface.so.1.1.0 -o libviface.so.1.1.0 CMakeFiles/viface.dir/viface.cpp.o 

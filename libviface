@@ -1,0 +1,36 @@
+Scanning dependencies of target viface
+[  5%] Building CXX object src/CMakeFiles/viface.dir/viface.cpp.o
+[ 11%] Linking CXX shared library libviface.so
+[ 11%] Built target viface
+Scanning dependencies of target tests
+[ 16%] Building CXX object test/CMakeFiles/tests.dir/create.cpp.o
+[ 22%] Linking CXX executable tests
+[ 22%] Built target tests
+Scanning dependencies of target basic
+[ 27%] Building CXX object examples/basic/CMakeFiles/basic.dir/basic.cpp.o
+[ 33%] Linking CXX executable basic
+[ 33%] Built target basic
+Scanning dependencies of target dispatch
+[ 38%] Building CXX object examples/dispatch/CMakeFiles/dispatch.dir/dispatch.cpp.o
+[ 44%] Linking CXX executable dispatch
+[ 44%] Built target dispatch
+Scanning dependencies of target signal
+[ 50%] Building CXX object examples/signal/CMakeFiles/signal.dir/signal.cpp.o
+[ 55%] Linking CXX executable signal
+[ 55%] Built target signal
+Scanning dependencies of target timeout
+[ 61%] Building CXX object examples/timeout/CMakeFiles/timeout.dir/timeout.cpp.o
+[ 66%] Linking CXX executable timeout
+[ 66%] Built target timeout
+Scanning dependencies of target stats
+[ 72%] Building CXX object examples/stats/CMakeFiles/stats.dir/stats.cpp.o
+[ 77%] Linking CXX executable stats
+[ 77%] Built target stats
+Scanning dependencies of target threads
+[ 83%] Building CXX object examples/threads/CMakeFiles/threads.dir/threads.cpp.o
+[ 88%] Linking CXX executable threads
+[ 88%] Built target threads
+Scanning dependencies of target vifaced
+[ 94%] Building CXX object examples/vifaced/CMakeFiles/vifaced.dir/vifaced.cpp.o
+[100%] Linking CXX executable vifaced
+[100%] Built target vifaced

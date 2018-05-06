@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/stats.dir/stats.cpp.o  -o stats -rdynamic ../../src/libviface.so.1.1.0 -Wl,-rpath,/home/predator/Documents/Project/temp/libviface/src 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/threads.dir/threads.cpp.o  -o threads -rdynamic ../../src/libviface.so.1.1.0 -lpthread -Wl,-rpath,/home/predator/Documents/Project/temp/libviface/src 

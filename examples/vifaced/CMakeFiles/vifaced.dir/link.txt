@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/vifaced.dir/vifaced.cpp.o  -o vifaced -rdynamic ../../src/libviface.so.1.1.0 -Wl,-rpath,/home/predator/Documents/Project/temp/libviface/src 

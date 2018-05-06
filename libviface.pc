@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=/usr/local
+libdir=/usr/local/lib
+includedir=${prefix}/include
+
+Name: libviface
+Description: libviface C++ bindings for C Linux tun/tap Interface.
+Version: 1.1.0
+Libs: -L${libdir} -lviface
+Cflags: -I${includedir}
